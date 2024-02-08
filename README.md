@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishan Adhikari</h1>
 <h3 align="center">Aspiring coder on a journey of learning and discovery. 🚀 Passionate about technology and hungry to explore its possibilities. Started coding just a few months ago and already hooked! 💻 Constantly seeking knowledge and eager to collaborate with fellow learners. Let's build something amazing together! 🌟</h3>
 
-- 🔭 I’m currently working on [https://github.com/nishanadhikari1/Invoice-Data-Miner](https://github.com/nishanadhikari1/Invoice-Data-Miner)
-
 - 🌱 I’m currently learning **React, ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nishanadhikari1?tab=repositories](https://github.com/nishanadhikari1?tab=repositories)

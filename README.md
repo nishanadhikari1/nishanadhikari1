@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishan Adhikari</h1>
-<h3 align="center">Aspiring coder on a journey of learning and discovery. 🚀 Passionate about technology and hungry to explore its possibilities. Started coding just a few months ago and already hooked! 💻 Constantly seeking knowledge and eager to collaborate with fellow learners. Let's build something amazing together! 🌟</h3>
+<h3 align="center">Aspiring coder on a journey of learning and discovery🚀 🌟</h3>
 
 - 🌱 I’m currently learning **React, ReactNative**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishan Adhikari</h1>
 <h3 align="center">Aspiring coder on a journey of learning and discovery🚀 🌟</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **adhikarin537@gmail.com**
 
